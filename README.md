@@ -15,9 +15,13 @@ https://letmeask-9a4f0.web.app
 ## Funcionalidades
 
 1 - Função admin nas suas salas
+
 2 - Autenticação de login
+
 3 - Like de comentários
+
 4 - Top Questions
+
 5 - Uso de Banco de dados em nuvem do firebase
 
 ## Tecnologias Utilizadas
